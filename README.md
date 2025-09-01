@@ -11,4 +11,4 @@ Let's you change the amount of civs starting out. Especially helpful for chaos g
 3. Run the game. Check `BepInEx/LogOutput.log` for “Loading [OU2 Civ Spawn Tuner 1.0.0]”. After the first launch with the plugin installed you can find the created config in BepInEx/config/ou2.AIStartingCivCountTuner.cfg if you want to change the speed value. Vanilla value is 0 I believe. Default for the mod is 33.
 
 ## Configure
-Edit `BepInEx/config/ou2.speedtweaks.cfg`:
+Edit `BepInEx/config/AIStartingCivCountTuner.cfg`:
